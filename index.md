@@ -6,3 +6,13 @@ Interest: Algebraic Geometry and Related Topics. Now I work on compactification 
 
 
 Notes:
+
+
+
+
+
+
+
+
+
+Papers:
