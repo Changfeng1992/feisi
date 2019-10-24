@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Fei Si's Hompage </title>
-	</head>
-</html>
 
 
 
